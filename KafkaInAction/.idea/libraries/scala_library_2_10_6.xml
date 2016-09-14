@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="scala-library-2.10.6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/scala-library-2.10.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/snappy-java-1.1.2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/zookeeper-3.4.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-log4j12-1.7.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/zkclient-0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/validation-api-1.1.0.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

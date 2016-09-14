@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../../../BigDataVisualization" value="1450249483000" />
+        <entry key="$PROJECT_DIR$/../../../../../CodeGS2016/BigDataVisualization" value="1450249483000" />
+        <entry key="$PROJECT_DIR$/../../../../../CodeGS2016/TwitterStreamToHBase" value="1450249483000" />
+        <entry key="$PROJECT_DIR$/../RealTimeTwitterStreaming" value="1459968374000" />
+        <entry key="$PROJECT_DIR$/../TwitterStreamToHBase" value="1459968374000" />
+        <entry key="$PROJECT_DIR$/../../../../Engineering Big Data/realtimetwitterstreamanalysis/TwitterStreamToHBase" value="1452416418000" />
+        <entry key="$PROJECT_DIR$/../../../../../RealTimeTwitterStreaming" value="1448915291000" />
+        <entry key="$PROJECT_DIR$/../../../../../TwitterStreamToHBase" value="1448915291000" />
+        <entry key="$USER_HOME$/Downloads/BitBucket Workspace/realtimetwitterstreamanalysis/Using Play/RealTimeTwitterStreaming" value="1448516885000" />
+        <entry key="$USER_HOME$/Downloads/BitBucket Workspace/realtimetwitterstreamanalysis/Using Play/TwitterStreamToHBase" value="1448516885000" />
+        <entry key="$USER_HOME$/Downloads/BitBucket_Prof.Ozbek/big-data-project_engineering/BigDataVisualization" value="1450249483000" />
+        <entry key="$USER_HOME$/Downloads/BitBucket_Prof.Ozbek/big-data-project_engineering/TwitterStreamToHBase" value="1450249483000" />
+        <entry key="$USER_HOME$/Downloads/FirstPlay" value="1448489992000" />
+        <entry key="$USER_HOME$/Downloads/ScalaExam/Scalaprof/finalExam" value="1449620574000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+</project>
